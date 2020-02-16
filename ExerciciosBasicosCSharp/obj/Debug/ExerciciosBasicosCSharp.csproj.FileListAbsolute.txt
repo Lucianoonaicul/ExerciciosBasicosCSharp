@@ -1,0 +1,7 @@
+C:\git_pessoal\ExerciciosBasicosCSharp\ExerciciosBasicosCSharp\bin\Debug\ExerciciosBasicosCSharp.exe.config
+C:\git_pessoal\ExerciciosBasicosCSharp\ExerciciosBasicosCSharp\bin\Debug\ExerciciosBasicosCSharp.exe
+C:\git_pessoal\ExerciciosBasicosCSharp\ExerciciosBasicosCSharp\bin\Debug\ExerciciosBasicosCSharp.pdb
+C:\git_pessoal\ExerciciosBasicosCSharp\ExerciciosBasicosCSharp\obj\Debug\ExerciciosBasicosCSharp.csprojAssemblyReference.cache
+C:\git_pessoal\ExerciciosBasicosCSharp\ExerciciosBasicosCSharp\obj\Debug\ExerciciosBasicosCSharp.csproj.CoreCompileInputs.cache
+C:\git_pessoal\ExerciciosBasicosCSharp\ExerciciosBasicosCSharp\obj\Debug\ExerciciosBasicosCSharp.exe
+C:\git_pessoal\ExerciciosBasicosCSharp\ExerciciosBasicosCSharp\obj\Debug\ExerciciosBasicosCSharp.pdb

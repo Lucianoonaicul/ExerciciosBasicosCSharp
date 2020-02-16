@@ -50,27 +50,19 @@ namespace ExerciciosBasicosCSharp
                 int corResult = 1;
                 int corResto = -2;
 
-                Console.WriteLine("COMETA: " + cometaCor.Key);
                 foreach (char letraCometa in cometaCor.Key.ToString())
                 {
                     cometaResult = cometaResult * Int32.Parse(listaNumerosLetras[letraCometa].ToString());
                 }
                 cometaResto = cometaResult % 45;
-                Console.WriteLine("PRODUTO: " + cometaResult);
-                Console.WriteLine("RESTO: " + cometaResto);
 
-                Console.WriteLine("COR: " + cometaCor.Value);
                 foreach (char letraCor in cometaCor.Value.ToString())
                 {
                     corResult = corResult * Int32.Parse(listaNumerosLetras[letraCor].ToString());
                 }
                 corResto = corResult % 45;
-                Console.WriteLine("PRODUTO: " + corResult);
-                Console.WriteLine("RESTO: " + corResto);
 
-                if (cometaResto == corResto)
-                    Console.WriteLine("=====> Serah levado: " + cometaCor.Value);
-                else
+                if (cometaResto != corResto)
                     Console.WriteLine("=====> NAO Serah levado: " + cometaCor.Value);
             }
 
